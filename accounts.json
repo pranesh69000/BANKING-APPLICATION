@@ -1,0 +1,22 @@
+[
+    {
+        "account_number": "9345544257",
+        "name": "PRANESH R",
+        "balance": 100500.0
+    },
+    {
+        "account_number": "8524094774",
+        "name": "JANARDHAN R",
+        "balance": 100000.0
+    },
+    {
+        "account_number": "9965191414",
+        "name": "RAMACHANDRAN K",
+        "balance": 100000.0
+    },
+    {
+        "account_number": "9965465524",
+        "name": "PRABAVATHI V",
+        "balance": 100000.0
+    }
+]
